@@ -1,7 +1,7 @@
-<DOCTYPE html>
+<!DOCTYPE html>
 <html>
   <head>
-    
+   <title>my first code</title>
   </head>
   <body>
     <h1>hello goodwall</h1>
